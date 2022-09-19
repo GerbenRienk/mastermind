@@ -1,8 +1,5 @@
 import random
 
-
-
-
 #Generate a random sequence of colors of length game length
 def init(gl):
     _answer = []
