@@ -60,7 +60,6 @@ def playgame():
     print("The numbers next to your guesses indicate the amount of correctly placed colors (left) and")
     print("the amount of correct colors in the wrong place (right)")
 
-
     #begin fase    
     while game_length == 0:
         g_l = input("Please select difficulty level (e/m/h): ")
